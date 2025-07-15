@@ -1,0 +1,4 @@
+roboflow==0.1.1
+Pillow==10.0.0
+matplotlib==3.7.1
+numpy==1.24.3
